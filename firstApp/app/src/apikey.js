@@ -1,3 +1,3 @@
-const apiKey = 'YOUR KEY SHOULD BE HERE';
+const apiKey = 'myKey';
 
 module.exports = apiKey;
